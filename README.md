@@ -1,8 +1,8 @@
-<img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG3.gif" width="100%"/>
+<img src="https://github.com/nellyXinwei/nellyXinwei/blob/2020/07/09-2021/04/07/BG3.gif" width="100%"/>
 
 # NELLYXINWEI 🛸 
 
-<img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
+<img src="https://github.com/nellyXinwei/nellyXinwei/blob/2020/07/09-2021/04/07/nellyicon.png" align="right" width="200px"/>
 
 ### 🛸  ABOUT ME
 >𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 / Music • Code • Design : for Fun | 🎹💻🎨
