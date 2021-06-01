@@ -13,7 +13,7 @@
 
 <div>
 <!-- START: NELLYXINWEI ICON -->
-<img src="@/assets/../img/personal-icons/nellyicon.png" align="right" width="200px" alt="nellyXinwei Icon"/>
+<img src="@/../assets/img/personal-icons/nellyicon.png" align="right" width="200px" alt="nellyXinwei Icon"/>
 <!-- END: NELLYXINWEI ICON -->
 
 <!-- START: ABOUT ME  -->
