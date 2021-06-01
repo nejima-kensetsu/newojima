@@ -1,5 +1,5 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<img src="https://github.com/nellyXinwei/nellyXinwei/blob/develop/assets/img/hero-images/BG3.gif" width="100%"/>
+<img src="@/../assets/img/hero-images/BG3.gif" width="100%"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 <div>
 <!-- START: NELLYXINWEI ICON -->
-<img src="https://github.com/nellyXinwei/nellyXinwei/blob/develop/assets/img/personal-icons/nellyicon.png" align="right" width="200px" alt="nellyXinwei Icon"/>
+<img src="@/assets/../img/personal-icons/nellyicon.png" align="right" width="200px" alt="nellyXinwei Icon"/>
 <!-- END: NELLYXINWEI ICON -->
 
 <!-- START: ABOUT ME  -->
